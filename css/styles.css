@@ -200,6 +200,7 @@ img {
 } 
 .listado__elemento:hover{
     transform: scale(1.1); /*1.1 significa el 10% mas de crecimiento*/
+    background-color: antiquewhite;
 }
 .listado__heading {
     font-size: 3rem;
